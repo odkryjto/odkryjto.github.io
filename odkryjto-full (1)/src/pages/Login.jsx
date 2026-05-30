@@ -1,0 +1,1 @@
+export default function Login(){return <h1>Logowanie GitHub przez Firebase - skonfiguruj firebase.js</h1>}
